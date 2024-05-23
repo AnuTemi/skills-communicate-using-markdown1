@@ -4,3 +4,4 @@ This is a markup language that offers a lean approach to content editing by shie
 italize text
 Bolden text
 Declare Headings
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
